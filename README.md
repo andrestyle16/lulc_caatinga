@@ -1,4 +1,4 @@
-![](portada_paper.png)
+[![](portada_paper.png)](https://www.mdpi.com/2073-445X/10/6/550/htm)
 \
 \
 \
