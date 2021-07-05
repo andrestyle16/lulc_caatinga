@@ -5,7 +5,6 @@
 **This repository contains three LULC's rasters (year 1985, 2000 and 2018).**
 \
 \
-\
 **The classes of the LULC's rasters are:** 
 \
 \
@@ -38,4 +37,4 @@
 \
 \
 \
-**See more information about the scenarios in the paper**
+**See more information about the scenarios in the paper:** https://www.mdpi.com/2073-445X/10/6/550/htm
